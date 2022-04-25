@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Live-Poll Logo" src="https://user-images.githubusercontent.com/37160523/165100232-b1a4dcf0-2f98-4f71-abe7-1fd8f497ed1b.png" width="600" />
+  <img alt="Live-Poll Logo" src="https://user-images.githubusercontent.com/37160523/165100232-b1a4dcf0-2f98-4f71-abe7-1fd8f497ed1b.png" width="400" />
   <h3 align="center">Live-Poll</h3>
   <p align="center">Easy to use poll management system</p>
 </p>
